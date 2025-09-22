@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/DSA103.egg-info/PKG-INFO
+src/DSA103.egg-info/SOURCES.txt
+src/DSA103.egg-info/dependency_links.txt
+src/DSA103.egg-info/requires.txt
+src/DSA103.egg-info/top_level.txt
+src/dsa103/__init__.py
+src/dsa103/chemistry_tools.py
+test/test_chemistry_tools.py
